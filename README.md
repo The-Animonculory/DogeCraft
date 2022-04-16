@@ -11,6 +11,7 @@
 ---
 
 **Modlist Download: [DogeCraft.zip](https://github.com/The-Animonculory/DogeCraft/releases/download/1.0.0/DogeCraft-1.0.0.zip)**
+
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
 # DogeCraft
