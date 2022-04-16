@@ -1,8 +1,10 @@
+# Install
+
 ## Requirements
 * [GDLauncher](https://gdevs.io/)
 * A computer
 
-## Installation
+## Importing
 Installing the pack in GDLauncher is as simple as importing the latest release from [here](https://github.com/The-Animonculory/DogeCraft/releases).
 
 Start by hitting the add button
