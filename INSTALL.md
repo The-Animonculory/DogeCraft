@@ -1,3 +1,15 @@
+![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/logo.png)
+
+---
+
+<p align="center">
+  <a href="README.md">Readme</a> ·
+  <a href="INSTALL.md">Install</a> ·
+  <a href="HELP.md">Help</a>
+</p>
+
+---
+
 # Install
 
 ## Requirements
