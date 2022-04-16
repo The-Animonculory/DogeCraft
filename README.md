@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="README.md">Readme</a> ·
+  <a href="README.md">Home</a> ·
   <a href="INSTALL.md">Installation</a> ·
   <a href="HELP.md">Help</a>
 </p>
