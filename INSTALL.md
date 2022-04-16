@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="README.md">Readme</a> ·
-  <a href="INSTALL.md">Install</a> ·
+  <a href="INSTALL.md">Installation</a> ·
   <a href="HELP.md">Help</a>
 </p>
 
 ---
 
-# Install
+# Installation
 
 ## Requirements
 * [GDLauncher](https://gdevs.io/)
