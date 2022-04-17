@@ -1,3 +1,18 @@
+![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/logo.png)
+
+---
+
+<p align="center">
+  <a href="README.md">Home</a> ·
+  <a href="INSTALL.md">Installation</a> ·
+  <a href="RULES.md">Rules</a> ·
+  <a href="HELP.md">Help</a>
+</p>
+
+---
+
+# Rules
+    
     All players must have appropriate usernames that are not offensive.
     
     Your Minecraft skin must be appropriate for our community and are not offensive.
