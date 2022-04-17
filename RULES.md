@@ -48,27 +48,17 @@ Do not use any form of automated programs or scripts.
 
 You are not allowed to advertise anything that is not related to the server.
 
-Do not spam commands that negatively affect other players.
-
 Do not use items that are not typically obtainable in-game on any other server. 
 
-You cannot use alternate accounts to spam chat, commands, or other communication methods.
-
-Doing anything considered to be illegal is not allowed on the server.
+Do not spam chat, commands, or other communication methods.
 
 Do not send links to any other Discord server in public chat.
-
-Please replant trees whenever you destroy them.
 
 Stealing other player’s items is not allowed.
 
 If you notice any player violating a rule, please report it to a staff member.
 
-Do not spam teleport requests.
-
 Please build 100 blocks away from another player’s build.
-
-Do not place unwanted lava or water around the map.
 
 Drama, politics, and religion in the chat are prohibited.
 
