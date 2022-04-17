@@ -64,4 +64,4 @@
 
 * Do not modify other players’ builds without their consent.
 
-- By joining the server, you agree to have read these rules and agree to them.
+> By joining the server, you agree to have read these rules and agree to them.
