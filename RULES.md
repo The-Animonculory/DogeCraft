@@ -30,8 +30,6 @@ Malicious threats of any kind towards other players are not permitted.
 
 Do not attempt to use our server for the purpose of scamming other players.
 
-Any threat or attempt to DOX/DDoS/SWAT another player or server will result in a permanent ban.
-
 Do not send any link that is deemed inappropriate or malicious.
 
 Do not send the same message in quick succession in public chat.
@@ -40,21 +38,7 @@ If you encounter any disrespectful players, please report them to a staff member
 
 If you are not sure if something is against the rules, please ask a staff member.
 
-Profanity, racism, and discrimination are prohibited in public chat.
-
-Do not send spoilers in public chat.
-
-Any link that is deemed inappropriate or malicious is not allowed.
-
 Keep the chat civil and appropriate for everyone.
-
-Saying something to confuse or mislead other players is not allowed.
-
-Do not talk or joke about inappropriate subjects.
-
-Being rude or arguing with other players in a hostile manner is not allowed.
-
-Bypassing filtered words is prohibited.
 
 Continued unwanted behavior towards a player is not permitted.
 
