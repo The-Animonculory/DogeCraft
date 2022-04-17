@@ -11,4 +11,5 @@
 ---
 
 # Help
-Nop
+
+If you have any trouble getting the pack set up, come by [The Animonculory Server](https://discord.gg/DffHKcszfg) and we can help you out.
