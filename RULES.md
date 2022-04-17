@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="README.md">Home</a> ·
-  <a href="INSTALL.md">Installation</a> ·
+  <a href="INSTALL.md">Install</a> ·
+  <a href="GUIDE.md">Guide</a> ·
   <a href="RULES.md">Rules</a> ·
   <a href="HELP.md">Help</a>
 </p>
