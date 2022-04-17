@@ -14,25 +14,17 @@
 
 # Rules
 
-All players must have appropriate usernames that are not offensive.
-
-Your Minecraft skin must be appropriate for our community and are not offensive.
+All players must have appropriate usernames and skins that are not offensive.
 
 Griefing is strictly prohibited and will result in a permanent ban.
 
 You MUST get someone's permission before engaging in PVP.
 
-Do not hack or cheat to gain an advantage that would not normally be available in regular gameplay.
-
-Harassing staff members or other players is not allowed.
-
-Impersonating staff members or other players is not allowed.
+Harassing or impersonating staff members or other players is not allowed.
 
 Trading of any items for real-life money or form of currency is prohibited.
 
 Advertising of other servers in public and private chat is prohibited.
-
-Never share your account’s information with anyone.
 
 Malicious threats of any kind towards other players are not permitted.
 
