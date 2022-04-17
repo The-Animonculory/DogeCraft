@@ -4,7 +4,7 @@
     
     Griefing is strictly prohibited and will result in a permanent ban.
     
-	  You MUST get someone's permission before engaging in PVP.
+    You MUST get someone's permission before engaging in PVP.
     
     Do not hack or cheat to gain an advantage that would not normally be available in regular gameplay.
     
