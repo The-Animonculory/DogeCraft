@@ -40,23 +40,13 @@ If you are not sure if something is against the rules, please ask a staff member
 
 Keep the chat civil and appropriate for everyone.
 
-Continued unwanted behavior towards a player is not permitted.
-
 Being excessively rude or abusive towards another player is not allowed.
-
-Do not make any type of serious threat towards another player.
-
-Inappropriate builds are not allowed.
-
-Abusing a bug or a glitch in the server to gain an unfair advantage is prohibited.
 
 Using an alternate account to bypass a ban is not allowed.
 
 Do not use any form of automated programs or scripts.
 
 You are not allowed to advertise anything that is not related to the server.
-
-Lying to staff members is not allowed.
 
 Do not spam commands that negatively affect other players.
 
@@ -68,17 +58,9 @@ Doing anything considered to be illegal is not allowed on the server.
 
 Do not send links to any other Discord server in public chat.
 
-Discussing anything inappropriate in public chat is not allowed.
-
 Please replant trees whenever you destroy them.
 
 Stealing other player’s items is not allowed.
-
-Teleport trapping is prohibited.
-
-Do not repeatedly ask or beg for mod status.
-
-Do not encourage other players to break rules.
 
 If you notice any player violating a rule, please report it to a staff member.
 
@@ -88,23 +70,10 @@ Please build 100 blocks away from another player’s build.
 
 Do not place unwanted lava or water around the map.
 
-The use of stolen or hacked accounts is not permitted.
-
-Do not use any derogatory terms on the server.
-
-Any form of hate speech is prohibited.
-
-Be polite and show respect to each other.
-
 Drama, politics, and religion in the chat are prohibited.
-
-Do not use any fancy or glitchy characters in chat.
 
 Do not argue with or harass staff members.
 
-Do not loot another player’s death location.
-
 Do not modify other players’ builds without their consent.
-
 
 - By joining the server, you agree to have read these rules and agree to them.
