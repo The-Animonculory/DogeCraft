@@ -16,7 +16,7 @@
 
 * All players must have appropriate usernames and skins that are not offensive.
 
-* Griefing is strictly prohibited and will result in a permanent ban.
+* Griefing is strictly prohibited and will result in a ban.
 
 * You MUST get someone's permission before engaging in PVP.
 
