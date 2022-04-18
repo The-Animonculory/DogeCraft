@@ -20,11 +20,11 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric) - Bedspreads is a mod that allows players to add banner patterns to their beds, kind of like what they can already do with shields.
 * [Columns](https://www.curseforge.com/minecraft/mc-mods/columns) - Adds column decorative blocks to Minecraft.
 
-## Tech
-* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
-
 ## Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
+
+## Tech
+* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
 
 ## Miscellaneous
 * [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - Adds several quality of life items such as climbable ropes, a block rotator wrench, a few new food items and much more!
