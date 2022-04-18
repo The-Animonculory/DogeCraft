@@ -22,12 +22,13 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 
 ## Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
-
-## Tech
-* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
+* [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) - Creeper Overhaul replaces the vanilla creeper with a variety of different biome-specific creeper types, some friendlier than others.
 
 ## Miscellaneous
 * [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - Adds several quality of life items such as climbable ropes, a block rotator wrench, a few new food items and much more!
+
+## Tech
+* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
 
 ## Performance
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
@@ -36,11 +37,13 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Basic Shields](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric) - Basic Shields adds vanilla-style shields to Minecraft for each material. All shields fully support banners!
 * [AdaPaxels](https://www.curseforge.com/minecraft/mc-mods/adapaxels) - This mod adds Paxels which are tools combining blocks that can be mined by a pickaxe, an axe, a shovel and a hoe. They can also make paths strip logs with right click.
 * [Colorful Armor](https://www.curseforge.com/minecraft/mc-mods/colorful-armor) - This mod makes chain, iron, gold, and diamond armor able to be dyed.
+* [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric) - With this Fabric mod, you gain 4 extra slots for armor. The armor put in there will display on your character, but won't provide any defense values or other functionality.
 
 ## Utilities
 * [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion) -  Campainion is a camping companion that adds items and utilities to improve your life away from home.
 * [Cammies Wearable Backpacks](https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks) - Just a small mod that adds 16 backpacks to the game that can be worn in the chest slot.
 * [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) - Carrier allows you to easily transport chests, entities and spawners but you get slowness and increased hunger.
+* [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric) - Comforts is a mod that adds sleeping bags and hammocks to Minecraft.
 
 ## Worldgen
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
