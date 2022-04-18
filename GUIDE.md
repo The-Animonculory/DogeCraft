@@ -15,7 +15,21 @@
 # Guide
 DogeCraft contains a select number of mods, all of which are intended to enhance but not fundamentally alter the vanilla minecraft experience. The guide below serves as a reference for any new mechancis or major mods you should know about.
 
+## Teams and Chunks
+DogeCraft includes FTBTeams and FTBChunks which allows you to create a team and claim chunks for your team so no one can steal your things or destroy your buildings.
+
+Press this button to open the chunk claiming menu.
+
+![Chunks](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide1.png)
+
+Press this button to create your own team.
+
+![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide1.png)
+
+You can invite your friends with `/ftbteams party invite` to allow them to modify your area.
+
 ## Important Mods
+Below is a list of notable mods and ones you might want to read the wiki for should you wish to interact with the content included.
 
 ### Decoration
 * [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn) - Adorn is a decoration and furniture mod that adds many decoration blocks.
