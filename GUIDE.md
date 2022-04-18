@@ -18,7 +18,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 ## Teams and Chunks
 DogeCraft includes FTBTeams and FTBChunks which allows you to create a team and claim chunks for your team so no one can steal your things or destroy your buildings.
 
-Press this button to open the chunk claiming menu.
+Press `M` to open the map and then this button to open the chunk claiming menu.
 
 ![Chunks](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide.png)
 
