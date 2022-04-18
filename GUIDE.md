@@ -19,6 +19,8 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn) - Adorn is a decoration and furniture mod that adds many decoration blocks.
 * [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric) - Bedspreads is a mod that allows players to add banner patterns to their beds, kind of like what they can already do with shields.
 * [Columns](https://www.curseforge.com/minecraft/mc-mods/columns) - Adds column decorative blocks to Minecraft.
+* [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) - A small mod that adds several new decorative blocks.
+* [Decorative Winter](https://www.curseforge.com/minecraft/mc-mods/decorative-winter) - This mod adds several winter themed decorative blocks, some of them based on the Decorative Blocks mod.
 
 ## Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
