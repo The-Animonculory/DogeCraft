@@ -28,7 +28,10 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 
 ## Worldgen
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
-* [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge) - This mod completely revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels. Find loot tucked away in the corners of abandoned workstations, or out in the open in a chest on a minecart.
+* [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) - This mod completely revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels. Find loot tucked away in the corners of abandoned workstations, or out in the open in a chest on a minecart.
+* [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) -  A complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!
+* [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) - YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!
+* [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric) - A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. It's the cherry on top for any modpack.
 
 ## Utilities
 
