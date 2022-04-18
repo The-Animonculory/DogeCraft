@@ -37,3 +37,5 @@
 * Drama, politics, and religion in the chat are prohibited.
 
 * Do not modify other players’ builds without their consent.
+
+* Woof
