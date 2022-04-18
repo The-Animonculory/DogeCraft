@@ -27,7 +27,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 
 ## Food and Farming
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure!
-* [Farming for Blockheads](Farming for Blockheads) - This mod adds a Market block to Minecraft, allowing you to buy seeds, saplings or other things such as bone meal. It also adds some farming utilties such as a Chicken Nest, a Feeding Trough, and Fertilizers to improve your crops.
+* [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric) - This mod adds a Market block to Minecraft, allowing you to buy seeds, saplings or other things such as bone meal. It also adds some farming utilties such as a Chicken Nest, a Feeding Trough, and Fertilizers to improve your crops.
 * [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Go Fish is a fishing enhancement mod for Fabric. It takes inspiration from Stardew Valley and Terraria to create a rewarding fishing experience with exciting new loot, creative aquatic creatures, and an incentive to enjoy fishing.
 
 ## Mobs
