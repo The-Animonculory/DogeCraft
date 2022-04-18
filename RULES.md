@@ -30,8 +30,6 @@
 
 * Do not spam chat, commands, or other communication methods.
 
-* Do not send links to any other Discord server in public chat.
-
 * Stealing other player’s items is not allowed.
 
 * Please build 100 blocks away from another player’s build.
@@ -39,5 +37,3 @@
 * Drama, politics, and religion in the chat are prohibited.
 
 * Do not modify other players’ builds without their consent.
-
-> By joining the server, you agree to have read these rules and agree to them.
