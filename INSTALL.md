@@ -16,8 +16,10 @@
 Installing the pack in GDLauncher is as simple as importing the latest release from [here](https://github.com/The-Animonculory/DogeCraft/releases).
 
 ## Requirements
-* [GDLauncher](https://gdevs.io/)
 * A computer
+* Minecraft Java Edition for PC
+* [GDLauncher](https://gdevs.io/)
+* [The Modpack](https://github.com/The-Animonculory/DogeCraft/releases)
 
 ## Importing
 
