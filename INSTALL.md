@@ -28,3 +28,7 @@ Start by hitting the add button
 Then click the import from zip tab and select the modpack from wherever you downloaded it.
 
 ![Add 2](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/install2.png)
+
+The server comes pre-loaded into the modpack in the multiplayer menu. Just click to join!
+
+![Add 3](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/install3.png)
