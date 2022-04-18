@@ -15,13 +15,20 @@
 # Guide
 DogeCraft contains a select number of mods, all of which are intended to enhance but not fundamentally alter the vanilla minecraft experience. The guide below serves as a reference for any new mechancis or major mods you should know about.
 
-## Tools and Weapons
+## Tech
+* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
+* 
+
+## Weapons and Gear
 * [Basic Shields](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric) - Basic Shields adds vanilla-style shields to Minecraft for each material. All shields fully support banners!
 * [AdaPaxels](https://www.curseforge.com/minecraft/mc-mods/adapaxels) - This mod adds Paxels which are tools combining blocks that can be mined by a pickaxe, an axe, a shovel and a hoe. They can also make paths strip logs with right click.
+* [Colorful Armor](https://www.curseforge.com/minecraft/mc-mods/colorful-armor) - This mod makes chain, iron, gold, and diamond armor able to be dyed.
+* 
 
 ## Decoration
 * [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn) - Adorn is a decoration and furniture mod that adds many decoration blocks.
 * [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric) - Bedspreads is a mod that allows players to add banner patterns to their beds, kind of like what they can already do with shields.
+* [Columns](https://www.curseforge.com/minecraft/mc-mods/columns) - Adds column decorative blocks to Minecraft.
 
 ## Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
@@ -34,7 +41,10 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric) - A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. It's the cherry on top for any modpack.
 
 ## Utilities
-
+* [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion) -  Campainion is a camping companion that adds items and utilities to improve your life away from home.
+* [Cammies Wearable Backpacks](https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks) - Just a small mod that adds 16 backpacks to the game that can be worn in the chest slot.
+* [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) - Carrier allows you to easily transport chests, entities and spawners but you get slowness and increased hunger.
+* 
 
 
 ## Miscellaneous
@@ -42,4 +52,3 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 
 ## Performance
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
-* 
