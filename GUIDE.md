@@ -22,7 +22,7 @@ Press `M` to open the map and then this button to open the chunk claiming menu.
 
 ![Chunks](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide.png)
 
-Press this button to create your own team.
+Press `E` to open your inventory and then this button to create your own team.
 
 ![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide2.png)
 
