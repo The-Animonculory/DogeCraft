@@ -44,10 +44,14 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 ## Miscellaneous
 * [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - Adds several quality of life items such as climbable ropes, a block rotator wrench, a few new food items and much more!
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
+* [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Do lots of new things with banners.
+
 
 ## Tech
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
 * [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces) - Fabric Furnaces is my take on the furnace version of the popular mod Iron Chests. It adds in new furnaces based on vanilla materials that scale in speed & ability.
+* [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod.
+* [Pipe](https://www.curseforge.com/minecraft/mc-mods/pipe) - Adds item pipes to fabric!
 
 ## Performance and GFX
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
@@ -72,6 +76,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Early-Game Buckets](https://www.curseforge.com/minecraft/mc-mods/early-game-buckets) - A small fabric mod which adds some new early-game buckets!
 * [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) - Explorer's Compass is an item that allows you to locate structures anywhere in the world. It is the sister mod of Nature's Compass, an item that can be used to locate biomes.
 * [Lapis Reserve](https://www.curseforge.com/minecraft/mc-mods/lapis-reserve) - When leaving lapis in a Enchanting table it will not only stay there it will also be available at any other enchanting table.
+* [Mob Catcher](https://www.curseforge.com/minecraft/mc-mods/mob-catcher-fabric) - A simple mod that allows the player to capture and release mobs for easy transport.
 
 ## Worldgen
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
