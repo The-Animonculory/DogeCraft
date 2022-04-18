@@ -15,7 +15,9 @@
 # Guide
 DogeCraft contains a select number of mods, all of which are intended to enhance but not fundamentally alter the vanilla minecraft experience. The guide below serves as a reference for any new mechancis or major mods you should know about.
 
-## Decoration
+## Important Mods
+
+### Decoration
 * [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn) - Adorn is a decoration and furniture mod that adds many decoration blocks.
 * [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric) - Bedspreads is a mod that allows players to add banner patterns to their beds, kind of like what they can already do with shields.
 * [Columns](https://www.curseforge.com/minecraft/mc-mods/columns) - Adds column decorative blocks to Minecraft.
@@ -30,13 +32,13 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Plushie Mod](https://www.curseforge.com/minecraft/mc-mods/plushie-mod) - This Mod adds cute plushies to the game!
 * 
 
-## Food and Farming
+### Food and Farming
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure!
 * [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric) - This mod adds a Market block to Minecraft, allowing you to buy seeds, saplings or other things such as bone meal. It also adds some farming utilties such as a Chicken Nest, a Feeding Trough, and Fertilizers to improve your crops.
 * [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Go Fish is a fishing enhancement mod for Fabric. It takes inspiration from Stardew Valley and Terraria to create a rewarding fishing experience with exciting new loot, creative aquatic creatures, and an incentive to enjoy fishing.
 * [TacoCraft](https://www.curseforge.com/minecraft/mc-mods/tacocraft-fabric) - Adds Tacos to Minecraft!
 
-## Mobs
+### Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
 * [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) - Creeper Overhaul replaces the vanilla creeper with a variety of different biome-specific creeper types, some friendlier than others.
 * [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes) - Friends&Foes is a mod focused on adding all eliminated mobs from the minecraft mob votes and also the forgotten mobs like the Illusioner with a rich lore.
@@ -46,28 +48,28 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [The Wild Mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-mod) - Adds various features from the minecraft wild update into fabric.
 * [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric) - Ever felt bored of the Minecraft Villagers? Do you wish they sold more useful items? More Villagers aims to fix that by adding multiple new villager jobs, all with unique trades, workstations, and advancements!
 
-## Miscellaneous
+### Miscellaneous
 * [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - Adds several quality of life items such as climbable ropes, a block rotator wrench, a few new food items and much more!
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations) - A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.
 * [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features) - Do lots of new things with banners.
 * [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones-fabric) - This mod adds waystone blocks that the player can return to once they've been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other.
 * [Winterly](https://www.curseforge.com/minecraft/mc-mods/winterly) - This simple mod will add some decorations that you can build with and cosmetics that you can wear.
 
-## Performance and GFX
+### Performance and GFX
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Iris aims to have full support for all past and present OptiFine shader packs, and number of packs supported by Iris is constantly and rapidly growing!
 
-## Tech
+### Tech
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
 * [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces) - Fabric Furnaces is my take on the furnace version of the popular mod Iron Chests. It adds in new furnaces based on vanilla materials that scale in speed & ability.
 * [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn) - Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod.
 * [Pipe](https://www.curseforge.com/minecraft/mc-mods/pipe) - Adds item pipes to fabric!
 
-## Interface and HUD
+### Interface and HUD
 * [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - Unlike many other minimap mods, Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game. It is also the first rotating square minimap for Minecraft.
 * [Xaeros World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) - Xaero's World Map mod adds a self-writing fullscreen map to your Minecraft client. Works as a separate mod but is a lot better with Xaero's Minimap. The reason why it's available separately is to keep Xaero's Minimap as light-weight as possible.
 
-## Weapons and Gear
+### Weapons and Gear
 * [Basic Shields](https://www.curseforge.com/minecraft/mc-mods/basic-shields-fabric) - Basic Shields adds vanilla-style shields to Minecraft for each material. All shields fully support banners!
 * [AdaPaxels](https://www.curseforge.com/minecraft/mc-mods/adapaxels) - This mod adds Paxels which are tools combining blocks that can be mined by a pickaxe, an axe, a shovel and a hoe. They can also make paths strip logs with right click.
 * [Colorful Armor](https://www.curseforge.com/minecraft/mc-mods/colorful-armor) - This mod makes chain, iron, gold, and diamond armor able to be dyed.
@@ -78,7 +80,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [MC Dungeons Weapons](https://www.curseforge.com/minecraft/mc-mods/mcdw) - Have you ever wanted to have the weapons from Minecraft Dungeons in your Minecraft world? Well, now that's possible! MC Dungeons Weapons (MCDW) aims to (eventually) bring all of these weapons, and more, from Minecraft Dungeons to Minecraft.
 * [Mythical Mounts](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts) - Adds 12 new tameable animals which can be found in various biomes across the world. Includes flying, aquatic, and terrestrial mounts.
 
-## Utilities
+### Utilities
 * [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion) -  Campainion is a camping companion that adds items and utilities to improve your life away from home.
 * [Cammies Wearable Backpacks](https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks) - Just a small mod that adds 16 backpacks to the game that can be worn in the chest slot.
 * [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) - Carrier allows you to easily transport chests, entities and spawners but you get slowness and increased hunger.
@@ -92,10 +94,10 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Trading Post](https://www.curseforge.com/minecraft/mc-mods/trading-post-fabric) - Trading Post adds one simple block, which when used allows you to trade with all villagers in a configurable area at once. The table looks really fancy and includes a neat animation!
 * [Trap Expansion](https://www.curseforge.com/minecraft/mc-mods/trap-expansion-fabric) - Trap expansion is a mod that adds various utilities to move, trap and kill your prey.
 
-## New Dimensions
+### New Dimensions
 * [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-fabric) - The Bumblezone is a dimension filled with Honeycomb Blocks, Honey Blocks, Honey Crystals, Sugar Water, and few new bee-related Blocks! There's even a structure with unique bee armor you can obtain!
 
-## Worldgen
+### Worldgen
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
 * [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) - This mod completely revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels. Find loot tucked away in the corners of abandoned workstations, or out in the open in a chest on a minecart.
 * [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) -  A complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!
