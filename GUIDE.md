@@ -21,6 +21,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Columns](https://www.curseforge.com/minecraft/mc-mods/columns) - Adds column decorative blocks to Minecraft.
 * [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) - A small mod that adds several new decorative blocks.
 * [Decorative Winter](https://www.curseforge.com/minecraft/mc-mods/decorative-winter) - This mod adds several winter themed decorative blocks, some of them based on the Decorative Blocks mod.
+* [Exline's Furniture](https://www.curseforge.com/minecraft/mc-mods/exlines-furniture) - Do you need more decorations for your empty house? This mod has everything you need to make your home cozy!
 
 ## Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
@@ -46,6 +47,8 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Cammies Wearable Backpacks](https://www.curseforge.com/minecraft/mc-mods/cammies-wearable-backpacks) - Just a small mod that adds 16 backpacks to the game that can be worn in the chest slot.
 * [Carrier](https://www.curseforge.com/minecraft/mc-mods/carrier) - Carrier allows you to easily transport chests, entities and spawners but you get slowness and increased hunger.
 * [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric) - Comforts is a mod that adds sleeping bags and hammocks to Minecraft.
+* [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders) - Allows 2 players to ride one horse!
+* [Early-Game Buckets](https://www.curseforge.com/minecraft/mc-mods/early-game-buckets) - A small fabric mod which adds some new early-game buckets!
 
 ## Worldgen
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
@@ -53,3 +56,4 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric) -  A complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!
 * [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric) - YUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!
 * [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric) - A myriad of structures, features, and vanilla+ content. This mod is a collection of upgrades to vanilla Minecraft that are each individually too small for their own mods, but together create a nice finishing touch for your modpack. It's the cherry on top for any modpack.
+* [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) - Ever thought the bland Vanilla biomes could use an update? Ecologics aims to improve various Vanilla biomes by adding fun new mobs, blocks, and more, all while staying completely true to the Vanilla style.
