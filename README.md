@@ -18,3 +18,6 @@
 
 # DogeCraft
 DogeCraft is a lightweight Fabric modpack built on Minecraft 1.18.1. It contains most quality of life improvements you'd expect, new tech, improved visual fidelity and performance as well as plenty of small [content](https://github.com/The-Animonculory/DogeCraft/blob/main/GUIDE.md) addons.
+
+## Install
+If you would like to join us on the official DogeCraft server, follow the instructions [here](https://github.com/The-Animonculory/DogeCraft/blob/main/INSTALL.md).
