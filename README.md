@@ -12,7 +12,7 @@
 
 ---
 
-**Modlist Download: [DogeCraft.zip](https://github.com/The-Animonculory/DogeCraft/releases/download/1.1.2/DogeCraft-1.1.2.zip)**
+**Modlist Download: [DogeCraft.zip](https://github.com/The-Animonculory/DogeCraft/releases/download/1.1.3/DogeCraft-1.1.3.zip)**
 
 **Modlist Support: [The Animonculory Server](https://discord.gg/DffHKcszfg)**
 
