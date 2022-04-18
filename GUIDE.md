@@ -1,3 +1,17 @@
+![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/logo.png)
+
+---
+
+<p align="center">
+  <a href="README.md">Home</a> ·
+  <a href="INSTALL.md">Install</a> ·
+  <a href="GUIDE.md">Guide</a> ·
+  <a href="RULES.md">Rules</a> ·
+  <a href="HELP.md">Help</a>
+</p>
+
+---
+
 # Guide
 DogeCraft contains a select number of mods, all of which are intended to enhance but not fundamentally alter the vanilla minecraft experience. The guide below serves as a reference for any new mechancis or major mods you should know about.
 
