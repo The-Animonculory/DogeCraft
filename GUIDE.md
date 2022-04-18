@@ -23,15 +23,23 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Decorative Winter](https://www.curseforge.com/minecraft/mc-mods/decorative-winter) - This mod adds several winter themed decorative blocks, some of them based on the Decorative Blocks mod.
 * [Exline's Furniture](https://www.curseforge.com/minecraft/mc-mods/exlines-furniture) - Do you need more decorations for your empty house? This mod has everything you need to make your home cozy!
 
+## Food and Farming
+* [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure!
+* [Farming for Blockheads](Farming for Blockheads) - This mod adds a Market block to Minecraft, allowing you to buy seeds, saplings or other things such as bone meal. It also adds some farming utilties such as a Chicken Nest, a Feeding Trough, and Fertilizers to improve your crops.
+* [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Go Fish is a fishing enhancement mod for Fabric. It takes inspiration from Stardew Valley and Terraria to create a rewarding fishing experience with exciting new loot, creative aquatic creatures, and an incentive to enjoy fishing.
+
 ## Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
 * [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) - Creeper Overhaul replaces the vanilla creeper with a variety of different biome-specific creeper types, some friendlier than others.
+* [Friends&Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes) - Friends&Foes is a mod focused on adding all eliminated mobs from the minecraft mob votes and also the forgotten mobs like the Illusioner with a rich lore.
+* [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric) - Are you tired of your village dying off because its golem is too lazy? Are you tired of essentially defending it all by yourself? This mod adds Guards as a solution, as well as new villager-related AI changes.
 
 ## Miscellaneous
 * [Additional Additions](https://www.curseforge.com/minecraft/mc-mods/additional-additions) - Adds several quality of life items such as climbable ropes, a block rotator wrench, a few new food items and much more!
 
 ## Tech
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania-fabric) - Botania is a tech mod in essence. The theme is natural magic, revolving around flora. Of course, it's not limited to that.
+* [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces) - Fabric Furnaces is my take on the furnace version of the popular mod Iron Chests. It adds in new furnaces based on vanilla materials that scale in speed & ability.
 
 ## Performance
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues.
@@ -41,6 +49,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [AdaPaxels](https://www.curseforge.com/minecraft/mc-mods/adapaxels) - This mod adds Paxels which are tools combining blocks that can be mined by a pickaxe, an axe, a shovel and a hoe. They can also make paths strip logs with right click.
 * [Colorful Armor](https://www.curseforge.com/minecraft/mc-mods/colorful-armor) - This mod makes chain, iron, gold, and diamond armor able to be dyed.
 * [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric) - With this Fabric mod, you gain 4 extra slots for armor. The armor put in there will display on your character, but won't provide any defense values or other functionality.
+* [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon) - Gate of Babylon is a mod for Fabric that adds in a bunch of new weapon/tool/armor options. From Boomerangs to Yo-yos, and Spears to Broadswords: we have you covered for all your adventuring needs.
 
 ## Utilities
 * [Campanion](https://www.curseforge.com/minecraft/mc-mods/campanion) -  Campainion is a camping companion that adds items and utilities to improve your life away from home.
@@ -49,6 +58,7 @@ DogeCraft contains a select number of mods, all of which are intended to enhance
 * [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric) - Comforts is a mod that adds sleeping bags and hammocks to Minecraft.
 * [Dual Riders](https://www.curseforge.com/minecraft/mc-mods/dual-riders) - Allows 2 players to ride one horse!
 * [Early-Game Buckets](https://www.curseforge.com/minecraft/mc-mods/early-game-buckets) - A small fabric mod which adds some new early-game buckets!
+* [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) - Explorer's Compass is an item that allows you to locate structures anywhere in the world. It is the sister mod of Nature's Compass, an item that can be used to locate biomes.
 
 ## Worldgen
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) - A complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: Catacombs, Fortresses of the Undead, and Spider Caves!
