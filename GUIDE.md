@@ -20,11 +20,11 @@ DogeCraft includes FTBTeams and FTBChunks which allows you to create a team and 
 
 Press this button to open the chunk claiming menu.
 
-![Chunks](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide1.png)
+![Chunks](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide.png)
 
 Press this button to create your own team.
 
-![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide1.png)
+![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide2.png)
 
 You can invite your friends with `/ftbteams party invite` to allow them to modify your area.
 
