@@ -21,6 +21,7 @@ Installing the pack in GDLauncher is as simple as importing the latest release f
 ## Importing
 
 Start by hitting the add button
+
 ![Add](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/install1.png)
 
 Then click the import from zip tab and select the modpack from wherever you downloaded it.
