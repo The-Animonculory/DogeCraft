@@ -50,7 +50,7 @@ Below is a list of notable mods and ones you might want to read the wiki for sho
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric) - Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. Using a collection of rustic tools and workstations, you can improve the foundation of your farm plots, prepare a myriad of hearty meals and snacks, and even gear up a bit better for adventure!
 * [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric) - This mod adds a Market block to Minecraft, allowing you to buy seeds, saplings or other things such as bone meal. It also adds some farming utilties such as a Chicken Nest, a Feeding Trough, and Fertilizers to improve your crops.
 * [Go Fish](https://www.curseforge.com/minecraft/mc-mods/go-fish) - Go Fish is a fishing enhancement mod for Fabric. It takes inspiration from Stardew Valley and Terraria to create a rewarding fishing experience with exciting new loot, creative aquatic creatures, and an incentive to enjoy fishing.
-* [TacoCraft](https://www.curseforge.com/minecraft/mc-mods/tacocraft-fabric) - Adds Tacos to Minecraft!
+* [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric) - Croptopia adds many new crops and food options to explore.
 
 ### Mobs
 * [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) - Better Animals Plus seeks to bring new life and creatures to your worlds, all with a unique flair and aesthetic compared to other mods of the same category.
@@ -120,5 +120,4 @@ Below is a list of notable mods and ones you might want to read the wiki for sho
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) - Ever thought the bland Vanilla biomes could use an update? Ecologics aims to improve various Vanilla biomes by adding fun new mobs, blocks, and more, all while staying completely true to the Vanilla style.
 * [Promenade](https://www.curseforge.com/minecraft/mc-mods/promenade) - Promenade adds fancy-looking biomes and structures to the Minecraft world generation. It aims at beautifying the process of exploring the world of Minecraft.
 * [Towers of the Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-reworked) - This mod adds tall towers in your world, inspired by The Legend Of Zelda: Breath Of The Wild.
-* [Wilder World](https://www.curseforge.com/minecraft/mc-mods/wilder-world) - Making Minecraft's world even wilder with new wild themed worldgen.
 * [Mo Structures](https://www.curseforge.com/minecraft/mc-mods/mo-structures) - Mo' Structures is Fabric's best structure mod, carefully designed to enrich your world with many fun adventures to be had!
