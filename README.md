@@ -24,3 +24,6 @@ If you would like to join us on the official DogeCraft server, follow the instru
 
 ## Gameplay Guide
 DogeCraft contains some gameplay enhancing mechanics. Those are described in detail [here](https://github.com/The-Animonculory/DogeCraft/blob/main/GUIDE.md) in the gameplay guide.
+
+## Updating the pack
+To update, import the new instance, and copy over your `Dogecraft/local/` and `Xaero` folders, options.txt, shaderpacks, and resource packs from the old instance to the new one.
