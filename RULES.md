@@ -32,7 +32,7 @@
 
 * Stealing other player’s items is not allowed.
 
-* Please build 100 blocks away from another player’s build.
+* Please build 100 blocks away from another player’s build, unless you have their permission. 
 
 * Drama, politics, and religion in the chat are prohibited.
 
