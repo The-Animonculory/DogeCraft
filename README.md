@@ -27,3 +27,6 @@ DogeCraft contains some gameplay enhancing mechanics. Those are described in det
 
 ## Updating the pack
 To update, import the new instance, and copy over your `Dogecraft/local/` and `Xaero` folders, options.txt, knownkeys.txt, shaderpacks, and resource packs from the old instance to the new one.
+
+## Using Galaxy's KubeJS scripts 
+You cannot without my permission
