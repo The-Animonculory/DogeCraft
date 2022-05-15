@@ -21,15 +21,13 @@ Installing the pack in GDLauncher is as simple as importing the latest release f
 * [PolyMC](https://polymc.org/) (Advanced users) or [Curseforge](https://download.curseforge.com/) (New to minecraft)
 * [The Modpack](https://github.com/The-Animonculory/DogeCraft/releases)
 
-## Importing
+## Importing (PolyMC)
 
-Start by hitting the add button
+Start by hitting the `add instance` button
 
-![Add](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/install1.png)
+![Add](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/addinstance.PNG)
 
 Then click the import from zip tab and select the modpack from wherever you downloaded it.
-
-![Add 2](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/install2.png)
 
 The server comes pre-loaded into the modpack in the multiplayer menu. Just click to join!
 
