@@ -22,6 +22,12 @@ Press `M` to open the map and then this button to open the chunk claiming menu.
 
 ![Chunks](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide.png)
 
+Click on Claimed Chunks button, then left or right-click on map to select chunks that will belong to you. Shift-left or right-click on claimed chunks to toggle forceloading.
+
+Add people as allies with Allies button to allow them to interact with your chunks. 
+
+If they also add you as ally, you can share map data with them.
+
 Press `E` to open your inventory and then this button to create your own team.
 
 ![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/guide2.png)
