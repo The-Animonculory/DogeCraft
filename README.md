@@ -1,5 +1,7 @@
 ![Dogecraft-banner](https://raw.githubusercontent.com/The-Animonculory/DogeCraft/main/images/logo.png)
 
+# DOGECRAFT HAS BEEN DISCONTINUED FOR NOW. WE ARE WORKING ON A NEW SERVER WHICH WE WILL ANNOUNCE IN DUE COURSE.
+
 ---
 
 <p align="center">
